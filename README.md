@@ -1,1 +1,1 @@
-# smwyzi.github.io
+# https://smwyzi.github.io
