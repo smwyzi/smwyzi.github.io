@@ -1,1 +1,0 @@
-# https://smwyzi.github.io

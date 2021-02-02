@@ -1,59 +1,18 @@
-<?xml-stylesheet type="text/xsl" href="https://smwyzi.github.io/sitemap.xsl"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://smwyzi.github.io/categories/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+  <sitemap>
+    <loc>/zh/sitemap.xml</loc>
+    
+      <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://smwyzi.github.io/tags/cloud-native/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+  <sitemap>
+    <loc>/en/sitemap.xml</loc>
+    
+      <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://smwyzi.github.io/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/tags/micro-service/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/post/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/categories/service-mesh/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/tags/service-mesh/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/tags/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smwyzi.github.io/post/what-is-service-mesh/</loc>
-    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-</urlset>
+</sitemapindex>

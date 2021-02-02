@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/zh/about/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/presentation/dir/fourth/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/presentation/dir/fourth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/presentation/dir/fourth/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/presentation/</loc>
+    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/presentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/presentation/third/</loc>
+    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/presentation/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/presentation/third/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/presentation/second/</loc>
+    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/presentation/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/presentation/second/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/presentation/first/</loc>
+    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/presentation/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/presentation/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/archive/</loc>
+    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/categories/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/cloud-native/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tags/micro-service/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tags/service-mesh/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/categories/service-mesh/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/tags/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/posts/what-is-service-mesh/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/zh/posts/</loc>
+    <lastmod>2019-04-15T20:28:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/tags/index/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/tags/index/"
+                />
+  </url>
+  
+  <url>
+    <loc>/zh/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="/zh/series/"
+                />
+  </url>
+  
+</urlset>
