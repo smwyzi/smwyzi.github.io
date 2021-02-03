@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>博客 on Kenshin Chen&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in 博客 on Kenshin Chen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>smwyzi@gmail.com (Kenshin Chen)</managingEditor>
+    <webMaster>smwyzi@gmail.com (Kenshin Chen)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 15 Apr 2019 20:28:10 +0800</lastBuildDate>
+    
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>什么是 Service Mesh</title>
+        <link>/posts/what-is-service-mesh/</link>
+        <pubDate>Mon, 15 Apr 2019 20:28:10 +0800</pubDate>
+        <author>smwyzi@gmail.com (Kenshin Chen)</author>
+        <atom:modified>Mon, 15 Apr 2019 20:28:10 +0800</atom:modified>
+        <guid>/posts/what-is-service-mesh/</guid>
+        <description>Service Mesh 作为下一代微服务技术的代名词，初出茅庐却深得人心一鸣惊人，大有一统微服务时代的趋势。 那么到底什么是 Service Mesh？ 一言以蔽之：Service Mesh 是微服务时代的 TCP/IP 协议。 初见 Service Mesh 有了这样一个感性的初步认知，</description>
+        
+        <dc:creator>Kenshin Chen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Service Mesh</category>
+            
+          
+            
+              <category>Micro Service</category>
+            
+          
+            
+              <category>Cloud Native</category>
+            
+          
+        
+        
+          
+            
+              <category>Service Mesh</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
