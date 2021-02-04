@@ -6,28 +6,28 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Micro Service on Kenshin Chen&#39;s Blog</title>
-    <link>/tags/micro-service/</link>
-    <description>Recent content in Micro Service on Kenshin Chen&#39;s Blog</description>
+    <title>Istio on Kenshin Chen&#39;s Blog</title>
+    <link>/tags/istio/</link>
+    <description>Recent content in Istio on Kenshin Chen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>smwyzi@gmail.com (Kenshin Chen)</managingEditor>
     <webMaster>smwyzi@gmail.com (Kenshin Chen)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 15 Apr 2019 20:28:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 23:11:11 +0800</lastBuildDate>
     
-        <atom:link href="/tags/micro-service/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/istio/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>什么是 Service Mesh</title>
-        <link>/posts/what-is-service-mesh/</link>
-        <pubDate>Mon, 15 Apr 2019 20:28:10 +0800</pubDate>
+        <title>生产环境落地 Istio 前，你需要知道的一些真相</title>
+        <link>/posts/the-facts-of-using-istio/</link>
+        <pubDate>Thu, 04 Feb 2021 23:11:11 +0800</pubDate>
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
-        <atom:modified>Mon, 15 Apr 2019 20:28:10 +0800</atom:modified>
-        <guid>/posts/what-is-service-mesh/</guid>
-        <description>Service Mesh 作为下一代微服务技术的代名词，初出茅庐却深得人心一鸣惊人，大有一统微服务时代的趋势。 那么到底什么是 Service Mesh？ 一言以蔽之：Service</description>
+        <atom:modified>Thu, 04 Feb 2021 23:11:11 +0800</atom:modified>
+        <guid>/posts/the-facts-of-using-istio/</guid>
+        <description>Istio 是当今云原生领域最流行的服务网格产品之一，但如果你想要在生产环境中大规模落地，以下因素可能你是应该提前关注和思考的。 使用 Istio 无法做到完全对应</description>
         
         <dc:creator>Kenshin Chen</dc:creator>
         
@@ -36,11 +36,11 @@
         
           
             
-              <category>Service Mesh</category>
+              <category>Istio</category>
             
           
             
-              <category>Micro Service</category>
+              <category>Service Mesh</category>
             
           
             

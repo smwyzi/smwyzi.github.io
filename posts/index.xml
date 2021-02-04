@@ -14,11 +14,49 @@
     <managingEditor>smwyzi@gmail.com (Kenshin Chen)</managingEditor>
     <webMaster>smwyzi@gmail.com (Kenshin Chen)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 15 Apr 2019 20:28:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 23:11:11 +0800</lastBuildDate>
     
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>生产环境落地 Istio 前，你需要知道的一些真相</title>
+        <link>/posts/the-facts-of-using-istio/</link>
+        <pubDate>Thu, 04 Feb 2021 23:11:11 +0800</pubDate>
+        <author>smwyzi@gmail.com (Kenshin Chen)</author>
+        <atom:modified>Thu, 04 Feb 2021 23:11:11 +0800</atom:modified>
+        <guid>/posts/the-facts-of-using-istio/</guid>
+        <description>Istio 是当今云原生领域最流行的服务网格产品之一，但如果你想要在生产环境中大规模落地，以下因素可能你是应该提前关注和思考的。 使用 Istio 无法做到完全对应</description>
+        
+        <dc:creator>Kenshin Chen</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Istio</category>
+            
+          
+            
+              <category>Service Mesh</category>
+            
+          
+            
+              <category>Cloud Native</category>
+            
+          
+        
+        
+          
+            
+              <category>Service Mesh</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>什么是 Service Mesh</title>
@@ -37,10 +75,6 @@
           
             
               <category>Service Mesh</category>
-            
-          
-            
-              <category>Micro Service</category>
             
           
             
