@@ -14,7 +14,7 @@
     <managingEditor>smwyzi@gmail.com (Kenshin Chen)</managingEditor>
     <webMaster>smwyzi@gmail.com (Kenshin Chen)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 04 Feb 2021 23:11:11 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Dec 2020 23:11:11 +0800</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <item>
         <title>Cloud Native</title>
         <link>/tags/cloud-native/</link>
-        <pubDate>Thu, 04 Feb 2021 23:11:11 +0800</pubDate>
+        <pubDate>Thu, 31 Dec 2020 23:11:11 +0800</pubDate>
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
         
         <guid>/tags/cloud-native/</guid>
@@ -41,7 +41,7 @@
       <item>
         <title>Istio</title>
         <link>/tags/istio/</link>
-        <pubDate>Thu, 04 Feb 2021 23:11:11 +0800</pubDate>
+        <pubDate>Thu, 31 Dec 2020 23:11:11 +0800</pubDate>
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
         
         <guid>/tags/istio/</guid>
@@ -59,7 +59,7 @@
       <item>
         <title>Service Mesh</title>
         <link>/tags/service-mesh/</link>
-        <pubDate>Thu, 04 Feb 2021 23:11:11 +0800</pubDate>
+        <pubDate>Thu, 31 Dec 2020 23:11:11 +0800</pubDate>
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
         
         <guid>/tags/service-mesh/</guid>
