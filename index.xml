@@ -48,7 +48,7 @@
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
         <atom:modified>Thu, 31 Dec 2020 23:11:11 +0800</atom:modified>
         <guid>/posts/the-facts-of-using-istio/</guid>
-        <description>前言 Istio 是当今云原生领域最流行的服务网格产品之一，但如果你想要在生产环境中大规模落地，以下因素可能你是应该提前关注和思考的。 使用 Istio 无法做到完全</description>
+        <description>前言 Istio 是当今云原生领域最流行的服务网格技术之一，但如果你想要在生产环境中大规模落地，以下因素可能你是应该提前关注和思考的。 如果你对 Service Mesh 的概念</description>
         
         <dc:creator>Kenshin Chen</dc:creator>
         
