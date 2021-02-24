@@ -48,7 +48,7 @@
         <author>smwyzi@gmail.com (Kenshin Chen)</author>
         <atom:modified>Thu, 31 Dec 2020 23:11:11 +0800</atom:modified>
         <guid>/posts/the-facts-of-using-istio/</guid>
-        <description>前言 在2021年伊始这个关口，如果你想要在生产环境中落地 Service Mesh，那 Istio 一定已经已经在你的考虑范围之内。 Istio 作为目前最流行的 Service Mesh 技术之一，拥有</description>
+        <description>前言 2021年伊始，如果你想要在生产环境中落地 Service Mesh，那 Istio 一定已经已经在你的考虑范围之内。 Istio 作为目前最流行的 Service Mesh 技术之一，拥有活跃的社区</description>
         
         <dc:creator>Kenshin Chen</dc:creator>
         
